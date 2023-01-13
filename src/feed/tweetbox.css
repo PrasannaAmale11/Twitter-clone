@@ -1,0 +1,83 @@
+img{
+    max-width: 400px;
+}
+
+.tweetBox{
+    padding-bottom: 10px;
+    border-bottom:8px solid var(--twitter-background-color);
+    padding-right: 10px;
+    
+}
+.tweetBox > input {
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.tweetBox__input{
+    display: flex;
+    padding: 20px;
+}
+.tweetBox__input > input {
+    flex: 1;
+    margin-left: 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+}
+.tweetBox_imputImage{
+    border: none;
+    padding: 10px;
+    margin-right: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+    max-width: 200px;
+}
+.tweet_icons{
+    padding-left: 2px;
+    padding-right: 2px;
+    color: var(--twitter-color);
+    margin-left: 10px;
+    cursor: pointer;;
+}
+.tweetIcon_div{
+    display: flex;
+
+}
+.tweet_icons:hover{
+    color: #1DA1F2;
+}
+.tweetbox_button{
+    background-color: var(--twitter-color) !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    width: 80px;
+    height: 40px !important;
+    /* margin-top: 10px !important; */
+    margin-left:   50px !important;
+    
+}
+
+.tweetImage > input{
+   width: 100px; 
+}
+.tweetImage{
+    max-width: 200px;
+    flex: 0.3 !important;
+}
+
+.tweetgif > input{
+display: none ;
+
+
+}
+.tweetgif{
+    margin-left: 20px;
+}
+.tweetemoji{
+    margin-left: 80px;
+    
+}
