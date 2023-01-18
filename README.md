@@ -81,6 +81,7 @@
 
 ![x3x5w638kkixi9s3h3vw](https://user-images.githubusercontent.com/110029115/212370861-9c46aac8-1e3f-4e65-b105-c5c21f29f551.gif)
 
+![logo-vertical](https://user-images.githubusercontent.com/110029115/213147412-cca73c63-26a1-4304-ba6c-c1ac846939ca.png)
 
 
 
