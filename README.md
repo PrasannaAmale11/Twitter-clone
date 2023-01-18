@@ -79,7 +79,7 @@
 
 ### Built With
 
-![x3x5w638kkixi9s3h3vw](https://user-images.githubusercontent.com/110029115/212370861-9c46aac8-1e3f-4e65-b105-c5c21f29f551.gif)
+![x3x5w638kkixi9s3h3vw](https://user-images.githubusercontent.com/110029115/212370861-9c46aac8-1e3f-4e65-b105-c5c21f29f551.gif) <br>
 ![logo-vertical](https://user-images.githubusercontent.com/110029115/213147917-631fd810-c857-4119-8607-20291004e647.png)
 
 
