@@ -8,8 +8,8 @@
 Project link: <br>
 https://twitter-clone-af81a.web.app/ 
 <br>
-LinkedIn : <br>
 
+LinkedIn : <br>
 [https://www.linkedin.com/in/prasanna-amale-041035212/]
 <br>
 
